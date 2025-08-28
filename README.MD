@@ -1,4 +1,4 @@
-# Site acessível sobre a música Eletrónica.
+# Site acessível sobre a música Eletrônica.
 # Sobre
 Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
 ## Recursos de acessibilidade
